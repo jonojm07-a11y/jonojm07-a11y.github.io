@@ -1,5 +1,5 @@
 
-# Jonathan Martinez Portfolio
+# Jonathan Martinez's Portfolio
 
 I am an electrical engeneering major at CSUF and I plan on graduating in 2029!
 
