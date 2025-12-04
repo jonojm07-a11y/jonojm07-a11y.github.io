@@ -3,7 +3,8 @@
 
 I am an electrical engeneering major at CSUF and I plan on graduating in 2029!
 
-Here is the link to my Github page https://github.com/jonojm07-a11y
+Here is the link to my Github page
+https://github.com/jonojm07-a11y.
 
 ## Favorite CPSC 120L Labs
 
